@@ -1,8 +1,8 @@
 # Fork: DougJoseph/sftp-watchlist
 
-A personal fork of Natizyskunk's SFTP extension, branched from release **1.16.3
-(2023-06-16)** and distributed as a `.vsix` from this repository's Releases — never
-published to the VS Code marketplace. Extension id `DougJoseph.sftp-watchlist`.
+A fork of Natizyskunk's SFTP extension, branched from release **1.16.3
+(2023-06-16)** and distributed as a `.vsix` from this repository's Releases and on the
+VS Code Marketplace. Extension id `DougJoseph.sftp-watchlist`.
 
 It differs from upstream in four ways:
 
